@@ -2,6 +2,7 @@ package Dominio;
 
 public class VideoJuegos {
 
+//este es otrocambio
 	private String nombre;
 	private float precio;
 	private String genero;
