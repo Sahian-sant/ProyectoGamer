@@ -119,10 +119,12 @@ public class Principal {
 
                 case 11:
                     System.out.println("Saliendo del sistema...");
+					   System.out.println("este es un numevo cambio...");
                     break;
 
                 default:
                     System.out.println("Opción inválida.");
+					
             }
 
         } while (opcion != 11);
